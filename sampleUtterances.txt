@@ -1,0 +1,39 @@
+AnswerIntent the answer is {Answer}
+AnswerIntent my answer is {Answer}
+AnswerIntent is it {Answer}
+AnswerIntent {Answer} is my answer
+AnswerIntent {Answer}
+
+QuizIntent quiz me
+QuizIntent start quiz
+QuizIntent start a quiz
+
+WhatIsNewIntent what's new
+WhatIsNewIntent what is new
+WhatIsNewIntent tell me what's new
+WhatIsNewIntent tell me what is new
+WhatIsNewIntent update me
+WhatIsNewIntent update me on what's new
+WhatIsNewIntent update me on what is new
+
+MoreInfoIntent more info
+MoreInfoIntent more information
+MoreInfoIntent tell me more
+MoreInfoIntent tell me more info
+MoreInfoIntent tell me more information
+
+ContinueIntent continue
+ContinueIntent keep playing
+ContinueIntent play again
+
+AMAZON.StartOverIntent start quiz
+AMAZON.StartOverIntent new quiz
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start new quiz
+AMAZON.StartOverIntent start a quiz
+AMAZON.StartOverIntent start a new quiz
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.HelpIntent what can I ask
+AMAZON.HelpIntent what can I do

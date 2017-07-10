@@ -1,0 +1,46 @@
+{
+    "intents": [
+        {
+            "intent": "QuizIntent"
+        },
+        {
+            "intent": "WhatIsNewIntent"
+        },
+        {
+            "intent": "MoreInfoIntent"
+        },
+        {
+            "intent": "AnswerIntent",
+            "slots": [
+                {
+                    "name": "Answer",
+                    "type": "LIST_OF_ANSWERS"
+                }
+            ]
+        },
+        {
+            "intent": "ContinueIntent"
+        },
+        {
+            "intent": "AMAZON.YesIntent"
+        },
+        {
+            "intent": "AMAZON.NoIntent"
+        },
+        {
+            "intent": "AMAZON.StartOverIntent"
+        },
+        {
+            "intent": "AMAZON.RepeatIntent"
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
